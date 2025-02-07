@@ -1,0 +1,32 @@
+{
+  "Ember": {
+    "name": "Ember",
+    "type": "Material"
+  },
+  "Burning Claw": {
+    "name": "Burning Claw",
+    "type": "Material"
+  },
+  "Burning Zweihander": {
+    "name": "Burning Zweihander",
+    "type": "Weapon",
+    "mindamagebonus": 24,
+    "maxdamagebonus": 47,
+    "damagetype": "fire",
+    "level": 45,
+    "class": "Knight",
+    "materials": {
+      "Zweihander": 1,
+      "Ember": 1
+    }
+  },
+  "Zweihander": {
+    "name": "Zweihander",
+    "type": "Weapon",
+    "mindamagebonus": 23,
+    "maxdamagebonus": 46,
+    "damagetype": "normal",
+    "level": 44,
+    "class": "Knight"
+  }
+}

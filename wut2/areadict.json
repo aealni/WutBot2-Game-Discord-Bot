@@ -1,0 +1,12 @@
+{
+  "Volcano": {
+    "py/object": "altereignModule.Area",
+    "name": "Volcano",
+    "description": "",
+    "enemies": [
+      "Pumice Golem",
+      "Salamander",
+      "Tranquility"
+    ]
+  }
+}
